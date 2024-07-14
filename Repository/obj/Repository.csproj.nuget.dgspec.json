@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\Diamond\\Repository\\Repository.csproj": {}
+    "D:\\FPTU\\Semester5\\PRN211\\ProjectTeam\\Didmn\\Repository\\Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\Diamond\\BussinessObject\\BussinessObject.csproj": {
+    "D:\\FPTU\\Semester5\\PRN211\\ProjectTeam\\Didmn\\BussinessObject\\BussinessObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Diamond\\BussinessObject\\BussinessObject.csproj",
+        "projectUniqueName": "D:\\FPTU\\Semester5\\PRN211\\ProjectTeam\\Didmn\\BussinessObject\\BussinessObject.csproj",
         "projectName": "BussinessObject",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\Diamond\\BussinessObject\\BussinessObject.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\Diamond\\BussinessObject\\obj\\",
+        "projectPath": "D:\\FPTU\\Semester5\\PRN211\\ProjectTeam\\Didmn\\BussinessObject\\BussinessObject.csproj",
+        "packagesPath": "C:\\Users\\cryno\\.nuget\\packages\\",
+        "outputPath": "D:\\FPTU\\Semester5\\PRN211\\ProjectTeam\\Didmn\\BussinessObject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cryno\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -84,21 +84,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Admin\\source\\repos\\Diamond\\DataAccessObject\\DataAccessObject.csproj": {
+    "D:\\FPTU\\Semester5\\PRN211\\ProjectTeam\\Didmn\\DataAccessObject\\DataAccessObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Diamond\\DataAccessObject\\DataAccessObject.csproj",
+        "projectUniqueName": "D:\\FPTU\\Semester5\\PRN211\\ProjectTeam\\Didmn\\DataAccessObject\\DataAccessObject.csproj",
         "projectName": "DataAccessObject",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\Diamond\\DataAccessObject\\DataAccessObject.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\Diamond\\DataAccessObject\\obj\\",
+        "projectPath": "D:\\FPTU\\Semester5\\PRN211\\ProjectTeam\\Didmn\\DataAccessObject\\DataAccessObject.csproj",
+        "packagesPath": "C:\\Users\\cryno\\.nuget\\packages\\",
+        "outputPath": "D:\\FPTU\\Semester5\\PRN211\\ProjectTeam\\Didmn\\DataAccessObject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cryno\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -112,8 +112,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\source\\repos\\Diamond\\BussinessObject\\BussinessObject.csproj": {
-                "projectPath": "C:\\Users\\Admin\\source\\repos\\Diamond\\BussinessObject\\BussinessObject.csproj"
+              "D:\\FPTU\\Semester5\\PRN211\\ProjectTeam\\Didmn\\BussinessObject\\BussinessObject.csproj": {
+                "projectPath": "D:\\FPTU\\Semester5\\PRN211\\ProjectTeam\\Didmn\\BussinessObject\\BussinessObject.csproj"
               }
             }
           }
@@ -148,21 +148,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Admin\\source\\repos\\Diamond\\Repository\\Repository.csproj": {
+    "D:\\FPTU\\Semester5\\PRN211\\ProjectTeam\\Didmn\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Diamond\\Repository\\Repository.csproj",
+        "projectUniqueName": "D:\\FPTU\\Semester5\\PRN211\\ProjectTeam\\Didmn\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\Diamond\\Repository\\Repository.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\Diamond\\Repository\\obj\\",
+        "projectPath": "D:\\FPTU\\Semester5\\PRN211\\ProjectTeam\\Didmn\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\cryno\\.nuget\\packages\\",
+        "outputPath": "D:\\FPTU\\Semester5\\PRN211\\ProjectTeam\\Didmn\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cryno\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -176,8 +176,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\source\\repos\\Diamond\\DataAccessObject\\DataAccessObject.csproj": {
-                "projectPath": "C:\\Users\\Admin\\source\\repos\\Diamond\\DataAccessObject\\DataAccessObject.csproj"
+              "D:\\FPTU\\Semester5\\PRN211\\ProjectTeam\\Didmn\\DataAccessObject\\DataAccessObject.csproj": {
+                "projectPath": "D:\\FPTU\\Semester5\\PRN211\\ProjectTeam\\Didmn\\DataAccessObject\\DataAccessObject.csproj"
               }
             }
           }
@@ -220,7 +220,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
