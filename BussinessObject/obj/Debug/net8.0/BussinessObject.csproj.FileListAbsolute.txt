@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Diamond\BussinessObject\bin\Debug\net8.0\BussinessObject.deps.json
+C:\Users\Admin\source\repos\Diamond\BussinessObject\bin\Debug\net8.0\BussinessObject.runtimeconfig.json
+C:\Users\Admin\source\repos\Diamond\BussinessObject\bin\Debug\net8.0\BussinessObject.dll
+C:\Users\Admin\source\repos\Diamond\BussinessObject\bin\Debug\net8.0\BussinessObject.pdb
+C:\Users\Admin\source\repos\Diamond\BussinessObject\obj\Debug\net8.0\BussinessObject.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Diamond\BussinessObject\obj\Debug\net8.0\BussinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Diamond\BussinessObject\obj\Debug\net8.0\BussinessObject.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Diamond\BussinessObject\obj\Debug\net8.0\BussinessObject.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Diamond\BussinessObject\obj\Debug\net8.0\BussinessObject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Diamond\BussinessObject\obj\Debug\net8.0\BussinessObject.dll
+C:\Users\Admin\source\repos\Diamond\BussinessObject\obj\Debug\net8.0\refint\BussinessObject.dll
+C:\Users\Admin\source\repos\Diamond\BussinessObject\obj\Debug\net8.0\BussinessObject.pdb
+C:\Users\Admin\source\repos\Diamond\BussinessObject\obj\Debug\net8.0\BussinessObject.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Diamond\BussinessObject\obj\Debug\net8.0\ref\BussinessObject.dll

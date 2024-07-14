@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\Diamond\Diamond\bin\Debug\Diamond.exe.config
+C:\Users\Admin\source\repos\Diamond\Diamond\bin\Debug\Diamond.exe
+C:\Users\Admin\source\repos\Diamond\Diamond\bin\Debug\Diamond.pdb
+C:\Users\Admin\source\repos\Diamond\Diamond\obj\Debug\Diamond.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Diamond\Diamond\obj\Debug\Diamond.Properties.Resources.resources
+C:\Users\Admin\source\repos\Diamond\Diamond\obj\Debug\Diamond.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Diamond\Diamond\obj\Debug\Diamond.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Diamond\Diamond\obj\Debug\Diamond.exe
+C:\Users\Admin\source\repos\Diamond\Diamond\obj\Debug\Diamond.pdb
